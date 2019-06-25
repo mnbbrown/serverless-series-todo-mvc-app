@@ -7,12 +7,10 @@ For the simple API  the following actions need to be implemented
 ## Actions for backend
 
 ```
-
 POST /api/todos - Create TODO
 DELETE /api/todos/{id} - Delete TODO
 PATCH /api/todos/{id} - Edit TODO
 GET /api/todos - get all todos
-
 ```
 
 ## Building this app
